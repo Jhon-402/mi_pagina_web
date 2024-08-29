@@ -19,8 +19,8 @@
     </style>
 </head>
 <body>
-    <h1>Bienvenidos a mi página</h1>
-    <p>Este es el video para la clase de español:</p>
+    <h1>Bienvenidos a mi pÃ¡gina</h1>
+    <p>Este es el video para la clase de espaÃ±ol:</p>
     <iframe src="https://drive.google.com/file/d/1AEyzGovmvrSJtbZ67qHHThvFgz5tGAOo/preview" allowfullscreen></iframe>
 </body>
 </html>
